@@ -909,8 +909,11 @@ header nav .form i {
   .footer .container {
     position: relative;
   }
-  .footer img {
+.footer img {
+    height: 76px;
     margin-bottom: 20px;
+    width: 212px;
+}
   }
   .footer p:not(.copyright) {
     text-transform: uppercase;
